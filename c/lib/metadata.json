@@ -1,0 +1,217 @@
+{
+  "vaultName": "AI_and_CG開源計畫",
+  "lastExport": 1729586170068,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-mauve anp-italic-green anp-highlight-yellow",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "AI_and_CG開源計畫/AI/深度學習/深度學習導論.md",
+    "AI_and_CG開源計畫/AI/AI導論.md",
+    "AI_and_CG開源計畫/CG/CG導論.md",
+    "AI_and_CG開源計畫/CS/計算機科學導論/計算機前身.md",
+    "AI_and_CG開源計畫/CS/設計模式/未命名.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++如何工作運作的.md",
+    "AI_and_CG開源計畫/CS/編程語言/C#/什麼是C sharp.md",
+    "AI_and_CG開源計畫/CS/操作系統/操作系統.md",
+    "AI_and_CG開源計畫/CS/CS導論.md",
+    "AI_and_CG開源計畫/GameEngine/Engine導論.md",
+    "AI_and_CG開源計畫/Maths/工程數學導論.md",
+    "AI_and_CG開源計畫/計畫簡介.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "AI_and_CG開源計畫/AI/深度學習/深度學習導論.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 0,
+      "exportedPath": "AI_and_CG開源計畫/AI/深度學習/深度學習導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/AI/AI導論.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 0,
+      "exportedPath": "AI_and_CG開源計畫/AI/AI導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CG/CG導論.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 1849,
+      "exportedPath": "AI_and_CG開源計畫/CG/CG導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/計算機科學導論/計算機前身.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 949,
+      "exportedPath": "AI_and_CG開源計畫/CS/計算機科學導論/計算機前身.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/設計模式/未命名.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 0,
+      "exportedPath": "AI_and_CG開源計畫/CS/設計模式/未命名.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 674,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++如何工作運作的.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 5407,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++如何工作運作的.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C#/什麼是C sharp.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 239,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C#/什麼是C sharp.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/操作系統/操作系統.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 129,
+      "exportedPath": "AI_and_CG開源計畫/CS/操作系統/操作系統.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/CS導論.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 647,
+      "exportedPath": "AI_and_CG開源計畫/CS/CS導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/GameEngine/Engine導論.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 828,
+      "exportedPath": "AI_and_CG開源計畫/GameEngine/Engine導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/Maths/工程數學導論.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 1667,
+      "exportedPath": "AI_and_CG開源計畫/Maths/工程數學導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/計畫簡介.md": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 219,
+      "exportedPath": "AI_and_CG開源計畫/計畫簡介.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1729586170068,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
